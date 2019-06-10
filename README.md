@@ -7,3 +7,4 @@ Data explorations are done in Jupyter notebook and the datasets used are linked 
 
 Contributors: Jiaying He, Jiacheng Hu, Yuhe Ren, Jinjin Yu
 
+[Link to the video[(https://youtu.be/hCXK4XBJxBg)
